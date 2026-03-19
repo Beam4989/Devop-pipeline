@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <h1>📦 ระบบสินค้า</h1>
+    <h1>📦 ระบบสินค้าทั่วไป</h1>
 
     <nav class="nav">
       <button @click="goHome" :class="{ active: page === 'home' }">
